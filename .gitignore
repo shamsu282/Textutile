@@ -1,0 +1,11 @@
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore compiled Cython files
+*.c
+*.so
